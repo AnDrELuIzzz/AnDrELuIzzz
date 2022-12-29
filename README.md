@@ -1,5 +1,5 @@
 ### Olá! Eu sou o André Luiz
-<h1> 1F31F </h1>
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-araujo-carvalho-33813b213/)

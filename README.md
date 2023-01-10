@@ -22,8 +22,6 @@
      <img sytle="margin-top:20px" align="center" alt"Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div><br>
-<hr>
-
 
 ## Learning: 
 
@@ -31,7 +29,7 @@
     <img align="center" alt"aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div><br>
-<hr>
+
 
 ## Tools:
 <div style="display: inline_block"><br/>

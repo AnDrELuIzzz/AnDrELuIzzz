@@ -6,9 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@AnDrELuIzzz)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix)
+
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical)
-![Andre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical)
+
 
 
 ## Main Skils:

@@ -5,12 +5,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-araujo-carvalho-33813b213/)
 [![LinkedIn](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@AnDrELuIzzz)
 
-
-
+<!--
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical)
-
-
+-->
+<a href="https://github.com/AnDrELuIzzz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/AnDrELuIzzz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical" />
+</a>
 
 ## Main Skils:
 
@@ -24,15 +28,15 @@
 
 </div><br>
 
-## Learning: 
+## Learning:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt"aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div><br>
 
-
 ## Tools:
+
 <div style="display: inline_block"><br/>
    <img sytle="margin-top:20px" align="center" alt"Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">

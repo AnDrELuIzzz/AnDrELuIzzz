@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix)
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical)
-![Andre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&theme=radical&layout=compact)
+![Andre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&theme=radical)
 
 
 ## Main Skils:

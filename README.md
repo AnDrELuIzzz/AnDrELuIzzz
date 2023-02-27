@@ -34,6 +34,7 @@
     <img align="center" alt"aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img sytle="margin-top:20px" align="center" alt"Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img sytle="margin-top:20px" align="center" alt"Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 
 ## Tools:

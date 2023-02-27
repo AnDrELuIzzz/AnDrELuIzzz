@@ -42,6 +42,6 @@
    <img sytle="margin-top:20px" align="center" alt"Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img sytle="margin-top:20px" align="center" alt"eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img sytle="margin-top:20px" align="center" alt"powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"> 
+    <img sytle="margin-top:20px" align="center" alt"Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> 
 </div>
 

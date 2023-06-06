@@ -16,6 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Main Skils:
 
 <div style="display: inline_block"><br/>

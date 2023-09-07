@@ -1,21 +1,46 @@
-### Olá! Eu sou o André Luiz
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-araujo-carvalho-33813b213/)
-[![LinkedIn](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@AnDrELuIzzz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Luiz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--
-![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-araujo-carvalho-33813b213/)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@AnDrELuIzzz)
 -->
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-araujo-carvalho-33813b213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://replit.com/@AnDrELuIzzz">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  </a>
+</div>
+<br>
+
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnDrELuIzzz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+-->
+<br>
+
+
+
+<!--
 <a href="https://github.com/AnDrELuIzzz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnDrELuIzzz&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AnDrELuIzzz/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrELuIzzz&hide=Makefile,Nix&layout=compact&theme=radical" />
 </a>
-
+-->
 
 ## Main Skils:
 
@@ -38,12 +63,6 @@
   <img sytle="margin-top:20px" align="center" alt"Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 
-## Tools:
 
-<div style="display: inline_block"><br/>
-   <img sytle="margin-top:20px" align="center" alt"Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img sytle="margin-top:20px" align="center" alt"vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img sytle="margin-top:20px" align="center" alt"eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img sytle="margin-top:20px" align="center" alt"Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> 
-</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
